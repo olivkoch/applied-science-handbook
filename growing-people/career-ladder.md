@@ -21,14 +21,14 @@ One of the core components of the career path revolves around mentoring and coac
 
  
 
-The gist of the career path is defined by the scale of your work, keeping in mind that your mission, at any level, is to impact customers in a significant and positive way. Each step in the ladder should correspond to a significant change in scale. 
+The gist of the career path is defined by the scale of your work, keeping in mind that your mission, at any level, is to impact customers and the ML community in a significant and positive way. Each step in the ladder should correspond to a significant change in scale. 
 
  
 
  
 
  
-Mission: Impact customers significantly and positively 
+Mission: Impact customers and the ML community significantly and positively 
 	
 
 | Position | Title | Scale of your ownership/impact |
