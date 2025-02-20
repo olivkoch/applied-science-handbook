@@ -14,9 +14,7 @@ Now, on to more practical questions.
 
 
 
-“You need to operate at the next level consistently” seems too hard of a criteria 
-
-People may say: this is unfair, I’ve been operating at the next level for the past few months already, or I’m 90% there.  The problem is known as Peter's principle.  Essentially, being too lenient on this leads to people being over-promoted, which yields a number of deep problems.  And so, we’re not doing anyone a favour by promoting people too early.  The only way to know it is to see it.  Now, when you look at an S3 or S4 around you, you know you’re talking to an S3 (or an S4). That’s how stellar teams operate.
+“You need to operate at the next level consistently” seems too hard of a criteria. People may say: this is unfair, I’ve been operating at the next level for the past few months already, or I’m 90% there.  The problem is known as Peter's principle.  Essentially, being too lenient on this leads to people being over-promoted, which yields a number of deep problems.  And so, we’re not doing anyone a favour by promoting people too early.  The only way to know it is to see it.  Now, when you look at an S3 or S4 around you, you know you’re talking to an S3 (or an S4). That’s how stellar teams operate.
 
 
 
