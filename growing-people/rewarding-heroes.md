@@ -24,4 +24,5 @@ If you’re going to give cash to people who make a change in your company, then
 
 If you are not willing to spend that amount, then forget about money altogether and go for a coin. Or for any gift that carries a symbolic meaning and will last forever. If you are a startup, this could be a lunch with the founders.
 
-But giving a few hundred bucks is useless. Just don’t do that.
+If you want to reward your heroes, go for the coin.
+
