@@ -8,7 +8,7 @@ So here is how things work, put in simple terms. You get promoted if you give a 
 
 Now, delivering in a research environment is hard.  You may say: there is uncertainty and so I cannot guarantee delivery every single time.  And that is absolutely true.  But if you follow a process, you will deliver on average, and consistently. Your batting average will improve over time.  In the end, you will deliver a few major breakthroughs in a year, and that’s all you need.  We’re talking game-changing things (at your level).  And that’s what your goal should be.
 
-So the updated version becomes: you get promoted if you give a shit and follow a consistent process. Simple. Can I elaborate?  For sure, that’s what I did here.
+So the updated version becomes: you get promoted if you give a shit and follow a consistent process. Simple. Can I elaborate?  For sure, that’s what I did in the [Seven Pillars of AI](https://github.com/olivkoch/applied-science-handbook/blob/main/deliver-for-the-product/seven-pillars.md).
 
 Now, on to more practical questions.
 
