@@ -6,29 +6,19 @@ I often tell my team that we are in the business of 10X things.
 
 That's what we do: we build things that people things could not exist.
 
-How to do this?
+How to do this? In two concurrent ways:
 
-Spend time with customers.
+1. Spend time with customers.
 
-Push the technologies to its limits.
+2. Push the technologies to its limits.
 
 Keep iterating between the two and build a mental model of the killer product.
 
-Stick to first principles, not analogies. u-boat 30% faster if latest material and AI-optimized hull?
+Stick to first principles, not analogies. Can we make a u-boat 30% faster if we use the latest material and AI-optimized hull?
 
-Use rules of thumbs: software can be made 10X faster. Physical world: Navier-Stoke equations
+Use rules of thumbs: in the world of bits, things can be made 10X faster with some magic, 100X, much less so. In the physical world, maybe knowing the Navier-Stoke equations is more useful there.
 
 10x things are hard to find. Use the 5 why rule.
-
-Examples:
-
-- Bad: I can make this component 10X faster.
-
-- OK: I can make this component 10X faster which saves $3M in compute. Good, but how big of a deal is this, and how long will we keep this component in prod?
-
-- Good:
-
-- Great:
 
 
 == How to deliver 10X things
@@ -46,8 +36,6 @@ But the way to drive the team is as follows:
 1. Build an inspiring, world-changing vision. This vision must cristalize itself into a concrete product vision.
 2. Derive milestones through backprop. Build a DAG.
 3. Make your workplace a (healthy) marketplace
-
-It does not really matter to be late as long as you are on the right path (see: Slow is smooth, smooth is fast).
 
 If you do this, two things happen:
 
