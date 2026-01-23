@@ -23,7 +23,7 @@ Fasten your seat belt, and read on!
     - [Spotting a great scientist in 3 minutes!](building-a-team/spotting-a-scientist.md)
     - [Hiring scientists](building-a-team/hiring.md)
     - [Slow is smooth, smooth is fast](building-a-team/slow-is-smooth.md)
-    - [Traits of a leader](buiding-a-team/traits-of-a-leader.md)
+    - [Traits of a leader](building-a-team/traits-of-a-leader.md)
 - Delivering for the Product
     - [Making your company ML-centric](delivering-for-the-product/ml-centric.md)
     - [The seven pillars of Applied AI](delivering-for-the-product/seven-pillars.md)
