@@ -1,12 +1,10 @@
-[DRAFT]
-
-The business of 10X things
+# The business of 10X things
 
 I often tell my team that we are in the business of 10X things.
 
 That's what we do: we build things that people things could not exist.
 
-How to do this? In two concurrent ways:
+How to do this? By doing two things at once:
 
 1. Spend time with customers.
 
@@ -21,7 +19,7 @@ Use rules of thumbs: in the world of bits, things can be made 10X faster with so
 10x things are hard to find. Use the 5 why rule.
 
 
-== How to deliver 10X things
+## How to deliver 10X things
 
 If you're in the business of 10X things and you operate as a leader, you end up asking yourself: how do I deliver on these great things with my team?
 
@@ -31,15 +29,15 @@ Both fail at delivering truly transformative change.
 
 Sure, some level of planning is important (and so is financial rigor and accountability)
 
-But the way to drive the team is as follows:
+But a better way of doing this consists in:
 
-1. Build an inspiring, world-changing vision. This vision must cristalize itself into a concrete product vision.
-2. Derive milestones through backprop. Build a DAG.
-3. Make your workplace a (healthy) marketplace
+1. Building an inspiring, world-changing vision. This vision must cristalize itself into a concrete product vision.
+2. Deriving milestones through backprop. Build a DAG.
+3. Making your team a (healthy) marketplace
 
 If you do this, two things happen:
 
-1. Little planning overhead. Teams define their own OKRs autonomously.
-2. No personal goals. The workplace is a marketplace. The best ideas win. Everyone is assumed to be autonomous.
+1. Little planning overhead. Teams define their own goals autonomously.
+2. The best ideas win. Everyone is assumed to be autonomous.
 
-- 
+

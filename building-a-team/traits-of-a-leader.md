@@ -1,4 +1,4 @@
-[DRAFT]
+# Traits of a leader
 
 Being in the business of 10X things requires specific traits for a leader.
 
@@ -26,4 +26,5 @@ Speak your mind in a genuine fashion. Not giving hard feedback is tantamount to 
 
 Genuine honesty. People won't remember what you said or what you did, they will remember how you made them feel. Time is the real currency.
 
-Be the change you want to see
+Lead by example. True leaders **are** the change they want to see around them.
+
