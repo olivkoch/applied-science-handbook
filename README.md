@@ -24,9 +24,9 @@ Fasten your seat belt, and read on!
     - [Hiring scientists](building-a-team/hiring.md)
     - [Slow is smooth, smooth is fast](building-a-team/slow-is-smooth.md)
 - Delivering for the Product
-    - [Making your company ML-centric](deliver-for-the-product/ml-centric.md)
-    - [The seven pillars of Applied AI](deliver-for-the-product/seven-pillars.md)
-    - [The six-week rule](deliver-for-the-product/six-week-rule.md)
+    - [Making your company ML-centric](delivering-for-the-product/ml-centric.md)
+    - [The seven pillars of Applied AI](delivering-for-the-product/seven-pillars.md)
+    - [The six-week rule](delivering-for-the-product/six-week-rule.md)
 - Growing people
     - [The Applied Scientist career ladder](growing-people/career-ladder.md)
     - [The Applied Scientist Lead career ladder](growing-people/career-ladder-lead.md)
