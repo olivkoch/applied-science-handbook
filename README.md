@@ -13,7 +13,7 @@ Fasten your seat belt, and read on!
 - MIT PhD (2010). Core member of the [MIT DARPA Urban Challenge Team](https://grandchallenge.mit.edu/) (2007)
 - 2010-2014: leading the computer vision team at [Thales Optronics](https://www.thalesgroup.com/en/activities/defence/air-forces/airborne-optronics)
 - 2015-2020: leading the machine learning recommendation team at [Criteo](https://www.criteo.com/)
-- 2021-today: leading the Applied Science team at Onfido, acquired by [Entrust] (https://entrust.com/) in 2024
+- 2021-today: leading the Applied Science team at Onfido, acquired by [Entrust](https://entrust.com/) in 2024
 - More details at [olivkoch.github.io](https://olivkoch.github.io)
 
 ## Index
@@ -28,7 +28,7 @@ Fasten your seat belt, and read on!
     - [Making your company ML-centric](delivering-for-the-product/ml-centric.md)
     - [The seven pillars of Applied AI](delivering-for-the-product/seven-pillars.md)
     - [The six-week rule](delivering-for-the-product/six-week-rule.md)
-    - [The business of 10X things](delivering-for-the-product/10x-things.md")
+    - [The business of 10X things](delivering-for-the-product/10x-things.md)
 - Growing people
     - [The Applied Scientist career ladder](growing-people/career-ladder.md)
     - [The Applied Scientist Lead career ladder](growing-people/career-ladder-lead.md)
