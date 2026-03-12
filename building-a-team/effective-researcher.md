@@ -28,7 +28,7 @@ Engineering comes with constraints, but also with power. Engineering is where th
 
  
 
-The catch is that Research and Engineering differ fundamentally in the way they operate. While Engineering work can be planned and predicted well, Research cannot.  There is no such thing as a “plan” in Applied Science.  There are only processes. While there exists a notion of RFC in Engineering, there is no such thing in Applied Science.  You can build the best RFC in the world for your research project.  Three days later, you make a new discovery, and your shiny RFC is now down the drain.  The only thing you have left to lock onto is a process. 
+The catch is that Research and Engineering differ fundamentally in the way they operate. While Engineering work can be planned and predicted well, Research cannot.  There is no such thing as a “plan” in Applied Science.  There are only processes. You can build the best RFC in the world for your research project.  Three days later, you make a new discovery, and your shiny RFC is now down the drain.  The only thing you have left to lock onto is a process. 
 
  
 
