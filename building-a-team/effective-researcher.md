@@ -53,26 +53,17 @@ Cray did not really bother to write management books. But he did leave a legacy 
  
 
 Just around the GooglePex in MountainView sits the Museum of Computer Science. The museum has a section dedicated to Seymour Cray, where a short video tells us about Seymour’s modus operandi. Seymour operated along three principles. 
-
  
 
-### Start fresh with each new project 
-
-Seymour started every new project from the blank sheet (literally, since his work started on paper). This did not mean “rebuild everything from scratch”. What it really means is, start from a blank sheet at the design phase, going back to first principles. Starting from a blank sheet helps scratching hypotheses that no longer hold, as well as outdated technologies. Another formulation of it is: “Assume nothing”. SpaceX revolutionised space travel because they reassessed everything in rocket design. 
+**1. Start fresh with each new project**: Seymour started every new project from the blank sheet (literally, since his work started on paper). This did not mean “rebuild everything from scratch”. What it really means is, start from a blank sheet at the design phase, going back to first principles. Starting from a blank sheet helps scratching hypotheses that no longer hold, as well as outdated technologies. Another formulation of it is: “Assume nothing”. SpaceX revolutionised space travel because they reassessed everything in rocket design. 
 
   
 
-### Design simply using proven technologies.   
-
-By proven technology, we mean technology that has been tried and tested over many years. This seems to go against the intuition that research should be about unproven technologies. And indeed, research is about exploring unproven territory. But in the end, it must end as tried-and-tested technology in our product. Which means that we’re not done until the “unproven technology” we discovered is now robustly integrated into our product. 
+**2. Design simply using proven technologies**: By proven technology, we mean technology that has been tried and tested over many years. This seems to go against the intuition that research should be about unproven technologies. And indeed, research is about exploring unproven territory. But in the end, it must end as tried-and-tested technology in our product. Which means that we’re not done until the “unproven technology” we discovered is now robustly integrated into our product. 
 
   
+**3. Work in small groups with a single decision-maker**: This is about working in small, cross-functional teams (product, engineering, analytics, research, UI/UX).  
 
-### Work in small groups with a single decision-maker.  
-
-This is about working in small, cross-functional teams (product, engineering, analytics, research, UI/UX).  
-
- 
 
 The bottom line is that Cray had devised a process that worked well for his team.  I am not saying we should try to replicate it.  I am saying that we should strive to reach the same level of clarity in the way we work. 
 
@@ -92,39 +83,40 @@ Born in Chicago in 1915, he provided crucial programming support as a member of 
 
  
 
-At a seminar in the Bell Communications Research Colloquia Series, Dr. Richard W. Hamming, a Professor at the Naval Postgraduate School in Monterey, California and a retired Bell Labs scientist, gave a very interesting and stimulating talk, `You and Your Research' to an overflow audience of some 200 Bellcore staff members and visitors at the Morris Research and Engineering Center on March 7, 1986. This talk centered on Hamming's observations and research on the question ``Why do so few scientists make significant contributions and so many are forgotten in the long run?'' From his more than forty years of experience, thirty of which were at Bell Laboratories, he has made a number of direct observations, asked very pointed questions of scientists about what, how, and why they did things, studied the lives of great scientists and great contributions, and has done introspection and studied theories of creativity. The talk is about what he has learned in terms of the properties of the individual scientists, their abilities, traits, working habits, attitudes, and philosophy. 
+At a seminar in the Bell Communications Research Colloquia Series, Dr. Richard W. Hamming, a Professor at the Naval Postgraduate School in Monterey, California and a retired Bell Labs scientist, gave a very interesting and stimulating talk, `You and Your Research' to an overflow audience of some 200 Bellcore staff members and visitors at the Morris Research and Engineering Center on March 7, 1986. This talk centered on Hamming's observations and research on the question ``Why do so few scientists make significant contributions and so many are forgotten in the long run?'' 
 
+From his more than forty years of experience, thirty of which were at Bell Laboratories, he has made a number of direct observations, asked very pointed questions of scientists about what, how, and why they did things, studied the lives of great scientists and great contributions, and has done introspection and studied theories of creativity. The talk is about what he has learned in terms of the properties of the individual scientists, their abilities, traits, working habits, attitudes, and philosophy. 
  
 
 The speech is full of insights.  Since it is quite long, I have extracted the key takeaways below.   
 
  
 
-**Have courage and drive.** *“That is the characteristic of great scientists; they have courage. They will go forward under incredible circumstances; they think and continue to think [...] Great scientists have tremendous drive. Solid work, steadily applied, gets you surprisingly far.”* 
+**1. Have courage and drive.** *“That is the characteristic of great scientists; they have courage. They will go forward under incredible circumstances; they think and continue to think [...] Great scientists have tremendous drive. Solid work, steadily applied, gets you surprisingly far.”* 
 
  
 
-**Work on important problems.**  *“You should be asking yourself: What are the important problems in my field?  Now, on the definition of important problems. We didn't work on (1) time travel, (2) teleportation, and (3) antigravity. They are not important problems because we do not have an attack. It's not the consequence that makes a problem important, it is that you have a reasonable attack.”* 
+**2. Work on important problems.**  *“You should be asking yourself: What are the important problems in my field?  Now, on the definition of important problems. We didn't work on (1) time travel, (2) teleportation, and (3) antigravity. They are not important problems because we do not have an attack. It's not the consequence that makes a problem important, it is that you have a reasonable attack.”* 
 
  
 
-**Be emotionally involved. Seek contradictions.** *“Darwin writes in his autobiography that he found it necessary to write down every piece of evidence which appeared to contradict his beliefs because otherwise they would disappear from his mind.”* You should only feel comfortable about your opinion if you can express your opponent’s opinion better than they do. 
+**3. Be emotionally involved. Seek contradictions.** *“Darwin writes in his autobiography that he found it necessary to write down every piece of evidence which appeared to contradict his beliefs because otherwise they would disappear from his mind.”* You should only feel comfortable about your opinion if you can express your opponent’s opinion better than they do. 
 
  
 
-**Work with others.** *“The essence of science is cumulative.”* Seek feedback and comments on your work. Do pair research. Build tools for the team. 
+**4. Work with others.** *“The essence of science is cumulative.”* Seek feedback and comments on your work. Do pair research. Build tools for the team. 
 
  
 
-**Learn to work with the system.** Don’t find alibis. *"It is a poor workman who blames his tools - the good man gets on with the job, given what he's got, and gets the best answer he can."*  Complaining about what does not work is a healthy thing. But we need to go one step further: don’t procrastinate on a task because the experience of it is poor. Fix the experience. Fix the process. 
+**5. Learn to work with the system.** Don’t find alibis. *"It is a poor workman who blames his tools - the good man gets on with the job, given what he's got, and gets the best answer he can."*  Complaining about what does not work is a healthy thing. But we need to go one step further: don’t procrastinate on a task because the experience of it is poor. Fix the experience. Fix the process. 
 
  
 
-**Learn to sell your work.** *“I have now come down to a topic which is very distasteful; it is not sufficient to do a job, you have to sell it. [...] You have to learn to write clearly and well so that people will read it, you must learn to give reasonably formal talks, and you also must learn to give informal talks.”*  I will extend this advice with How to speak, by Patrick Winston. 
+**6. Learn to sell your work.** *“I have now come down to a topic which is very distasteful; it is not sufficient to do a job, you have to sell it. [...] You have to learn to write clearly and well so that people will read it, you must learn to give reasonably formal talks, and you also must learn to give informal talks.”*  I will extend this advice with How to speak, by Patrick Winston. 
 
  
 
-Richard Hamming also delivered a course on Science and Engineering, which can be found in the book The Art of Doing Science and Engineering: Learning to Learn (also in pdf here) as well as in this introductory speech. We leave this part for your own reading list. 
+Richard Hamming also delivered a course on Science and Engineering, which can be found in the book The Art of Doing Science and Engineering: Learning to Learn. We leave it for your own reading list. 
 
  
 
@@ -132,5 +124,15 @@ Richard Hamming also delivered a course on Science and Engineering, which can be
 
  
 
-From all this, we can extract a few lessons about how we should work as Applied Scientists.  Like I said earlier, it is about two things: caring about what we do and building a process around it.  From there, we devised [seven principles](../deliver-for-the-product/seven-pillars.md) for an Applied AI team.
+From all this, we can extract a few lessons about how we should work as Applied Scientists. 
+
+- Start new projects from the blank sheet
+- Start simple using proven technology
+- Work in small groups with a single decision-maker
+- Have courage and drive
+- Work on important problems
+- Be emotionally involved
+- Work with others
+- Learn to work with the system
+- Learn to sell your work
 
